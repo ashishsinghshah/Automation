@@ -1,0 +1,5 @@
+package testAnnotation;
+
+@interface testClass {
+
+}
